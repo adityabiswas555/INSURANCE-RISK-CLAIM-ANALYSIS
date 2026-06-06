@@ -48,7 +48,7 @@ Insurance providers need to understand which customer segments contribute most t
 
 📸 Screenshot / Demo:
 Show what the dashboard look like: https://github.com/adityabiswas555/INSURANCE-RISK-CLAIM-ANALYSIS/blob/main/Insurance%20Risk%20%26%20Claim%20Analysis%20Dashboard%20%20Power%20BI.png
-Example: ![Dashboard Preview](https://github.com/adityabiswas555/INSURANCE-RISK-CLAIM-ANALYSIS/blob/main/Insurance%20Risk%20%26%20Claim%20Analysis%20Dashboard%20%20Power%20BI.png)
+Example: ![Dashboard Preview](https://github.com/adityabiswas555/INSURANCE-RISK-CLAIM-ANALYSIS/blob/main/Insurance%20Risk%20%26%20Claim%20Analysis%20Dashboard%20Power%20BI.png))
 
 This project helped me strengthen my skills in data modeling, DAX calculations, dashboard design, and business intelligence reporting while transforming raw insurance data into actionable insights.
 

@@ -31,43 +31,52 @@ Supports faster, data-driven underwriting and risk management decisions
 
 **Walkthrough of Key Visuals**
 
-Key KPIs (Top Row)
+📌 Key KPIs (Top Row)
 Total Policies: 37.54K | Total Claim Amount: $187.8M | Avg Claim Frequency: 0.51 | Avg Claim Amount: $5.0K | Male Policy Holders: 18.7K | Female Policy Holders: 18.8K
 
-Policy Distribution by Car Use (Chart)
+🚘 Policy Distribution by Car Use (Chart)
 Breaks down policies by vehicle usage type (e.g., personal vs. commercial), showing where volume and risk concentrate.
 
-Policy Analysis by Car Make (Chart)
+🚗 Policy Analysis by Car Make (Chart)
 Compares policy counts across different vehicle manufacturers to highlight which makes are most represented in the portfolio.
 
-Coverage Zone Analysis (Chart)
+🌍 Coverage Zone Analysis (Chart)
 Maps policy and risk distribution across coverage zones, helping identify geographic areas of higher exposure.
 
-Age Group-wise Policy Distribution (Chart)
+👥 Age Group-wise Policy Distribution (Chart)
 Segments policyholders by age bracket to reveal which age groups hold the most policies and carry the most risk.
 
-Vehicle Year Trend Analysis (Chart)
+📈 Vehicle Year Trend Analysis (Chart)
 Tracks policy volume by vehicle model year, useful for understanding fleet age and associated risk profile.
 
-Kids Driving Impact Analysis (Chart)
+👨‍👩‍👧‍👦 Kids Driving Impact Analysis (Chart)
 Examines how having a young/teen driver in the household correlates with claim frequency and risk.
 
-Education-wise Policy Breakdown (Chart)
+🎓 Education-wise Policy Breakdown (Chart)
 Shows policy distribution across policyholder education levels.
 
-Claim Analysis by Education & Marital Status (Chart)
+💰 Claim Analysis by Education & Marital Status (Chart)
 Cross-analyzes claim behavior against education and marital status to surface higher-risk demographic combinations.
 
-Interactive Filters & Dynamic KPI Cards
+📈 Interactive Filters & Dynamic KPI Cards
 Slicers and dynamic cards let users drill into any segment — car use, make, zone, or demographic — and see KPIs update in real time.
 
-Business Impact & Insights
+**Business Impact & Insights**
 
-Risk Segmentation: Identified customer segments with higher claim frequencies, enabling more targeted underwriting.
-Portfolio Analysis: Policy distribution across vehicle makes and usage types helps guide pricing and product strategy.
-Demographic Risk Signals: Claim behavior tied to education and marital status surfaces patterns that can inform risk scoring models.
-Geographic Exposure: Coverage zone analysis highlights regions with disproportionate risk concentration.
-Fleet Risk Monitoring: Vehicle year and demographic trends support proactive policy and pricing adjustments.
+📊 Risk Identification:
+Insurance companies can identify customer segments that generate higher claim frequencies and claim amounts, enabling better risk assessment.
+
+💡 Improved Underwriting:
+Underwriters can use demographic and vehicle-related insights to refine policy pricing and risk evaluation strategies.
+
+🎯 Customer Segmentation:
+The dashboard helps classify customers based on age, education, marital status, and vehicle usage, enabling targeted insurance products.
+
+🌍 Geographic Risk Analysis:
+Coverage zone analysis helps organizations understand regional claim exposure and optimize policy offerings accordingly.
+
+📈 Data-Driven Decision Making:
+Executives and analysts can leverage real-time insights to improve portfolio management, reduce risk, and enhance profitability.
 
 📸 Screenshot / Demo:
 Show what the dashboard look like: https://github.com/adityabiswas555/INSURANCE-RISK-CLAIM-ANALYSIS/blob/main/Insurance%20Risk%20%26%20Claim%20Analysis%20Dashboard%20%20Power%20BI.png
